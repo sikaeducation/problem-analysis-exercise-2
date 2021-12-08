@@ -15,11 +15,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * 100 lockers, currently in a "closed" state
   * Identifies the unknown
-    * The count of lockers that are in an "open" state
   * Identifies the constraint
-    * There are 100 runs, each one targeting every nth locker where n is the number of the run
-    * The lockers will be toggled between "closed" and "open" each run
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
